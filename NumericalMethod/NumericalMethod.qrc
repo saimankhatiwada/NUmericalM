@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/NumericalMethod">
+        <file>WindowLogo.jpg</file>
+        <file>Background2.png</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>

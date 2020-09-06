@@ -1,0 +1,15 @@
+﻿  BisectionMethod.cpp
+  NRMethod.cpp
+  NumericalMethod_Method.cpp
+  qcustomplot.cpp
+  RKMethod.cpp
+  NumericalMethod.cpp
+  main.cpp
+  qrc_NumericalMethod.cpp
+  moc_NumericalMethod.cpp
+  moc_RKMethod.cpp
+  moc_BisectionMethod.cpp
+  moc_NumericalMethod_Method.cpp
+  moc_qcustomplot.cpp
+  moc_NRMethod.cpp
+  NumericalMethod.vcxproj -> D:\Projects\QT\NM\x64\Debug\NumericalMethod.exe

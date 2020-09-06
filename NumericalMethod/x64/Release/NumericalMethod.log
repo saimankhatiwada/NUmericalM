@@ -1,0 +1,36 @@
+﻿  Reading Qt configuration (D:\Qt\5.15.0\msvc2019_64\bin\qmake.exe)
+  uic BisectionMethod.ui
+  uic NRMethod.ui
+  uic NumericalMethod.ui
+  uic NumericalMethod_Method.ui
+  uic RKMethod.ui
+  rcc NumericalMethod.qrc
+  moc NumericalMethod.h
+  moc RKMethod.h
+  moc BisectionMethod.h
+  moc NumericalMethod_Method.h
+  moc qcustomplot.h
+  moc NRMethod.h
+   D:\Projects\QTVS\NumericalMethod\NumericalMethod\NRMethod.ui: Warning: The name 'layoutWidget' (QWidget) is already in use, defaulting to 'layoutWidget1'.
+   D:\Projects\QTVS\NumericalMethod\NumericalMethod\NRMethod.ui: Warning: The name 'layoutWidget' (QWidget) is already in use, defaulting to 'layoutWidget2'.
+   D:\Projects\QTVS\NumericalMethod\NumericalMethod\BisectionMethod.ui: Warning: The name 'layoutWidget' (QWidget) is already in use, defaulting to 'layoutWidget1'.
+   D:\Projects\QTVS\NumericalMethod\NumericalMethod\BisectionMethod.ui: Warning: The name 'layoutWidget' (QWidget) is already in use, defaulting to 'layoutWidget2'.
+   D:\Projects\QTVS\NumericalMethod\NumericalMethod\NRMethod.ui: Warning: The name 'layoutWidget' (QWidget) is already in use, defaulting to 'layoutWidget3'.
+   D:\Projects\QTVS\NumericalMethod\NumericalMethod\BisectionMethod.ui: Warning: The name 'layoutWidget' (QWidget) is already in use, defaulting to 'layoutWidget3'.
+   D:\Projects\QTVS\NumericalMethod\NumericalMethod\BisectionMethod.ui: Warning: The name 'layoutWidget' (QWidget) is already in use, defaulting to 'layoutWidget4'.
+   D:\Projects\QTVS\NumericalMethod\NumericalMethod\BisectionMethod.ui: Warning: The name 'layoutWidget' (QWidget) is already in use, defaulting to 'layoutWidget5'.
+  BisectionMethod.cpp
+  NRMethod.cpp
+  NumericalMethod_Method.cpp
+  qcustomplot.cpp
+  RKMethod.cpp
+  NumericalMethod.cpp
+  main.cpp
+  qrc_NumericalMethod.cpp
+  moc_NumericalMethod.cpp
+  moc_RKMethod.cpp
+  moc_BisectionMethod.cpp
+  moc_NumericalMethod_Method.cpp
+  moc_qcustomplot.cpp
+  moc_NRMethod.cpp
+  NumericalMethod.vcxproj -> D:\Projects\QTVS\NumericalMethod\x64\Release\NumericalMethod.exe
